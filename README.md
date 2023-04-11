@@ -1,4 +1,4 @@
-# NumberConversion
+# Number Converter
 Website that offers users to convert numbers
 Used React for practice
 
