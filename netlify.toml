@@ -1,6 +1,6 @@
 [build]
-command = "cd number_convert/number_conversion/number_convert && npm run build"
-publish = "NUMBERCONVERSION/number_convert/build"
+command = "cd number_convert && npm run build"
+publish = "number_convert/build"
 
 [[redirects]]
 from = "/*"
