@@ -1,5 +1,5 @@
 # Number Converter
-Website that offers users to convert numbers
+Website that offers users to convert numbers  
 Used React for practice
 
 ## React practice!
